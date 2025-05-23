@@ -14,7 +14,7 @@
 - 🧠 I have strong knowledge in **Java**, **Python**, and **C**.
 - 🗃️ I enjoy working with **MySQL**, practicing **DSA**, and building small utility tools.
 - 🚀 I like building clean, simple, and functional applications to improve problem-solving skills.
-- 📫 Reach me at: **subratpradhan5@gmail.com**
+- 📫 Reach me at: **subratpradhan485@gmail.com**
 
 ---
 
