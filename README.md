@@ -50,9 +50,10 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=subratpradhan&show_icons=true&theme=tokyonight&count_private=true&hide_title=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=subratpradhan&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=subrat398&show_icons=true&theme=tokyonight" alt="Subrat's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=subrat398&layout=compact&theme=tokyonight" />
 </p>
+
 
 
 
