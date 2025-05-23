@@ -50,14 +50,14 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <!-- Subrat's GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=subratpradhan&show_icons=true&theme=tokyonight" alt="Subrat's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=subratpradhan&show_icons=true&theme=tokyonight&count_private=true&hide_title=true" alt="Subrat's GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=subratpradhan&layout=compact&theme=tokyonight" alt="Subrat's Top Languages" />
   <br />
   <img src="https://streak-stats.demolab.com/?user=subratpradhan&theme=tokyonight" alt="Subrat's GitHub Streak Stats" />
   <br />
   <img src="https://github-readme-activity-graph.cyclic.app/graph?username=subratpradhan&theme=tokyo-night&hide_border=true" alt="Subrat's GitHub Activity Graph" />
 </p>
+
 
 
 ---
